@@ -94,7 +94,7 @@ console.log(otu_ids,otu_labels,sample_values);
         Plotly.newPlot("bar", [trace_1])
     });
 };
-// Building the bubble chart
+// Building the bubble chart.
 function plotting_bubble_chart(sample) {
 
     d3.json(url).then((data_collected) => {
