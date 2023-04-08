@@ -9,9 +9,7 @@ Direct Link to the deployed Dashboard - https://janicesara.github.io/belly-butto
 
 Various plots such as Bar Graph and Bubble Graphs were used for visualizing the Dataset as well as  Metadata updates when a new sample is selected through the drop down menu .
 
-Complete the following steps:
-
-Use the D3 library to read in samples.json from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.
+sample Data - https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.
 
  horizontal bar that displays the top 10 OTUs found in Test Subject ID No :947
  
