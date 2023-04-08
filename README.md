@@ -22,7 +22,8 @@ Use otu_ids as the labels for the bar chart.
 Use otu_labels as the hovertext for the chart.
 
 bar Chart
-![image](https://user-images.githubusercontent.com/120125587/230745590-324abfbf-1b37-4f61-932d-13a75755ddbd.png)
+![BarPlot](https://user-images.githubusercontent.com/120125587/230746438-5d7e4e1a-85fd-4982-a2d9-5a4123bcc0bd.png)
+
 
 Create a bubble chart that displays each sample.
 
