@@ -78,7 +78,7 @@ let sample_values = valueData.sample_values;
 
 console.log(otu_ids,otu_labels,sample_values);
 
-// show top 10 in descending order
+// selecting top 10 in descending order
         let x_bar_values = sample_values.slice(0,10).reverse();
         let y_bar_values = otu_ids.slice(0,10).map(id => `OTU ${id}`).reverse();
         let labels = otu_labels.slice(0,10).reverse();
@@ -134,7 +134,7 @@ function plotting_bubble_chart(sample) {
     });
 };
 
-// updatind dashboard when the sample selection is changed
+// updating dashboard when the sample selection is changed
 function optionChanged(value) { 
     console.log(value); 
 
